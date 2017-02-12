@@ -2,14 +2,6 @@
 .project
 .settings
 .buildpath
-/vendor
-/.idea
-
-storage/debugbar/
-storage/logs/
-/node_modules
-/public/storage
-/public/build
 
 Homestead.json
 Homestead.yaml
@@ -17,3 +9,16 @@ Homestead.yaml
 _ide_helper.php
 oauth-private.key
 oauth-public.key
+
+/.idea
+/vendor
+/node_modules
+/public/storage
+/public/build
+
+/storage/app/
+/storage/debugbar/
+/storage/framework/cache
+/storage/framework/sessions
+/storage/framework/views
+/storage/logs/
