@@ -165,7 +165,7 @@ return [
 		/*
 		 * Package Service Providers...
 		 */
-		Laravel\Passport\PassportServiceProvider::class,  // Laravel Passport
+// 		Laravel\Passport\PassportServiceProvider::class,  // Laravel Passport
 		
 		
 		/*
