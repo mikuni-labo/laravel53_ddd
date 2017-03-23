@@ -178,7 +178,7 @@ return [
 		App\Providers\RouteServiceProvider::class,
 // 		App\Providers\ComposerServiceProvider::class,    // ビューコンポーザ
 // 		App\Providers\ValidatorServiceProvider::class,   // カスタムバリデート
-// 		App\Providers\LocalServiceProvider::class,       // ローカル環境サービスプロバイダ
+		App\Providers\LocalServiceProvider::class,       // ローカル環境サービスプロバイダ
 	],
 	
 	/*
