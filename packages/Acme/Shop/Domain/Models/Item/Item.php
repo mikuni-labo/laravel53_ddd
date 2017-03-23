@@ -2,10 +2,10 @@
 
 namespace Packages\Acme\Shop\Domain\Models\Item;
 
-use Packages\Acme\Shop\Domain\Models\ItemId;
-use Packages\Acme\Shop\Domain\Models\ItemName;
-use Packages\Acme\Shop\Domain\Models\ItemPrice;
-use Packages\Acme\Shop\Domain\Models\ItemStock;
+use Packages\Acme\Shop\Domain\Models\Item\ItemId;
+use Packages\Acme\Shop\Domain\Models\Item\ItemName;
+use Packages\Acme\Shop\Domain\Models\Item\ItemPrice;
+use Packages\Acme\Shop\Domain\Models\Item\ItemStock;
 
 class Item
 {

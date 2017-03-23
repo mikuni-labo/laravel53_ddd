@@ -2,7 +2,7 @@
 
 namespace Packages\Acme\Shop\Domain\Models\Item;
 
-class ItemPrice
+class ItemStock
 {
 	/**
 	 * Create a new class instance.
